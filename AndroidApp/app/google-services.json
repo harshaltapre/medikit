@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "592613800841",
+    "firebase_url": "https://medkit-1-default-rtdb.firebaseio.com",
+    "project_id": "medkit-1",
+    "storage_bucket": "medkit-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592613800841:android:bd350f24ac1234f1e83f58",
+        "android_client_info": {
+          "package_name": "com.harshal.medikit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592613800841-1j3j4olgv658lgetr187eatle1pt4tqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harshal.medikit",
+            "certificate_hash": "98e941bb25b812479d641121bef2ac6b57c1d76b"
+          }
+        },
+        {
+          "client_id": "592613800841-ncffjljbfmvo8mgvsg9s5smhe7edvus6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLCimwh3cQHc6JQQJcVgYxjzoncYaBcIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592613800841-ncffjljbfmvo8mgvsg9s5smhe7edvus6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
